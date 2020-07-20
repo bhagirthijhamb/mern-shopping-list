@@ -65,7 +65,7 @@ class ItemModal extends Component {
                       style={{ marginTop: "2rem" }}
                       block
                     >
-                      Add Item
+                      Add
                     </Button>
                   </FormGroup>
                 </Form>
